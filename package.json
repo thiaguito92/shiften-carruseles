@@ -1,0 +1,11 @@
+{
+    "name":  "shiften-carruseles",
+    "private":  true,
+    "type":  "module",
+    "scripts":  {
+                    "generar":  "node generar.mjs"
+                },
+    "dependencies":  {
+                         "sharp":  "0.34.5"
+                     }
+}
